@@ -1,1 +1,3 @@
-# .github
+# Antipode Studios Organization
+
+Nothing to see here ...
